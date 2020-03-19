@@ -1,0 +1,78 @@
+.sk{
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.box{
+  text-align: right;
+  width:80%;
+  /* border:1px solid black; */
+  background-color:gray;
+  margin-left: 2rem;
+  margin-bottom: 0.5rem;
+  
+  border-radius: 15px;
+}
+
+#html{
+  width: 95%;
+  background-color: greenyellow;
+  padding-right: 5px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  -moz-animation: all 4s ease-in;
+  -webkit-animation: all 4s ease-in;
+
+  
+ 
+  
+}
+
+.css{
+  width: 85%;
+  background-color: burlywood;
+  padding-right: 5px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.js{
+  width: 75%;
+  background-color: rosybrown;
+  padding-right: 5px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.boot{
+  width: 90%;
+  background-color: crimson;
+  padding-right: 5px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  animation: animate 1 4s;
+}
+
+.ms{
+  width: 90%;
+  background-color: forestgreen;
+  padding-right: 5px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.jq{
+  width: 65%;
+  background-color: orangered;
+  padding-right: 5px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.team{
+  width: 95%;
+  background-color:darkmagenta ;
+  padding-right: 5px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
